@@ -115,7 +115,7 @@ export const ContactUs: React.FC = () => {
                       _hover={{ border: '2px solid #1C6FEB' }}
                       leftIcon={<MdEmail color="#1970F1" size="20px" />}
                     >
-                      lis@gmail.com
+                      consuelo-waters@gmail.com
                     </Button>
                     <Button
                       m={3}
@@ -134,8 +134,7 @@ export const ContactUs: React.FC = () => {
                     <HStack mt={{ lg: 10, md: 10 }} spacing={5} px={5} alignItems="flex-start">
                       <IconButton
                         as={'a'}
-                        href="https://www.facebook.com/LanaoIntegratedSchool"
-                        target="_blank"
+                        href="https://www.facebook.com/ConsuelosWRS"
                         aria-label="facebook"
                         size="lg"
                         isRound={true}
@@ -144,7 +143,7 @@ export const ContactUs: React.FC = () => {
                       />
                       <IconButton
                         as={'a'}
-                        href="https://www.facebook.com/LanaoIntegratedSchool"
+                        href="https://www.facebook.com/ConsuelosWRS"
                         target="_blank"
                         aria-label="github"
                         size="lg"
