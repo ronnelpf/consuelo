@@ -57,7 +57,7 @@ export const Footer: React.FC = () => {
             ml: 8,
           }}
         >
-          <Image src="/lis-logo.jpg" width={50} height={50} alt="consuelo-logo" />
+          <Image src="/consuelo-logo.jpg" width={50} height={50} alt="consuelo-logo" />
         </Flex>
         <Text pt={6} fontSize={'sm'} textAlign={'center'}>
           © 2024 Consuelo Water Refilling Station. All rights reserved

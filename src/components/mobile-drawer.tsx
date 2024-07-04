@@ -56,7 +56,7 @@ export const MobileDrawer: React.FC = () => {
             <DrawerHeader p={8}>
               <Center>
                 <VStack>
-                  <Image src="/lis-logo.jpg" width={80} height={80} alt="consuelo-logo" />
+                  <Image src="/consuelo-logo.jpg" width={80} height={80} alt="consuelo-logo" />
                   <Link href="/" onClick={onClose} variant="link">
                     {siteConfig.title}
                   </Link>
